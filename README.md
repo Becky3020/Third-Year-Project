@@ -17,5 +17,5 @@ Languages: Python, HTML,CSS,JavaScript
 Data Sources: Google Earth Engine, Open Building, NASA Power Data Access Viewer, etc.
 
 
-                                                                          ARCHITECTURE DIAGRAM
+                                                                    ARCHITECTURE DIAGRAM
 ![Image](https://github.com/user-attachments/assets/5f0fa00c-7309-469b-8de2-c76c73f7c6fc)
